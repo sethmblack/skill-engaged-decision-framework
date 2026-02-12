@@ -1,12 +1,10 @@
 ---
 name: engaged-decision-framework
-description: Navigate major decisions with full awareness of freedom, responsibility,
-  and the absence of external guidance—without fleeing into bad faith. Use Sartre's
-  three affective tonalities (anguish, aband...
+description: Navigate major decisions with full awareness of freedom, responsibility, and the absence of external guidance—without fleeing into bad faith. Use Sartre's three affective tonalities (anguish, aband...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - engaged-decision-framework
 - writing

@@ -3,8 +3,8 @@ name: engaged-decision-framework
 description: Navigate major decisions with full awareness of freedom, responsibility, and the absence of external guidance—without fleeing into bad faith. Use Sartre's three affective tonalities (anguish, aband...
 license: MIT
 metadata:
-  version: 1.0.3907
   author: sethmblack
+  version: 1.0.3908
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - engaged-decision-framework
